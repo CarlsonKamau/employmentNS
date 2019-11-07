@@ -1,0 +1,18 @@
+/* main css for the body*/
+.body-background{
+  background-image: url(../pictures/Kakamega-forest-kenya.jpg);
+
+}
+
+/* changed the display of the form */
+.Form-format {
+    text-align: center;
+    background-color: #ffe7d1;
+    width: 59%;
+    align-content: center;
+    margin: auto;
+  }
+  /* padding within the form */
+  .form-style{
+    padding: 3rem;
+  }

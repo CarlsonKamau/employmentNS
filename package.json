@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@brainhubeu/react-carousel": "^1.10.27",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-gesture-gallery": "^1.1.0",
+    "react-gesture-responder": "^2.1.0",
     "react-router-dom": "^5.1.2",
     "react-router-native": "^5.1.2",
     "react-scripts": "3.2.0",
